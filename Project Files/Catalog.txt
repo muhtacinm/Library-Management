@@ -1,0 +1,15 @@
+Book,For whom the Bell Tolls,1,121,Ernest Hemingway
+Book,Kurukku,1,122,Faustina Bama
+Book,Animal Farm,1,123,George Orwell
+Book,Allahabad Prasasti,1,124,Harisen
+Book,Principia,1,125,Issac Newton
+Magazine,Sports Illustrated,1,221,221
+Magazine,Vanity Fair,1,222,222
+Magazine,Cosmopolitan,1,223,223
+Magazine,Airliners,1,224,224
+Magazine,Sentimentalist Magazine,1,225,225
+Journal,Probability Theory and Related Fields,1,331,1
+Journal,Computer Networks,1,332,8
+Journal,ICGA Journal,1,333,89
+Journal,The Imaging Science Journal,1,334,34
+Journal,Journal of Cases on Information Technology,1,345,36
